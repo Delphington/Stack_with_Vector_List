@@ -1,0 +1,3 @@
+D:/_DELPGINGTON/Prog_cpp/lab_2/Stack_with_Vector_List/cmake-build-debug/CMakeFiles/lab_2.dir
+D:/_DELPGINGTON/Prog_cpp/lab_2/Stack_with_Vector_List/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/_DELPGINGTON/Prog_cpp/lab_2/Stack_with_Vector_List/cmake-build-debug/CMakeFiles/rebuild_cache.dir
